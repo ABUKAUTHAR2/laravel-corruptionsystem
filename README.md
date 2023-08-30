@@ -57,4 +57,4 @@ Submit a pull request.
 License
 This project is open-source and available under the MIT License.
 #
-Feel free to customize this README template to include specific details about your Laravel project. Include any additional instructions or information that may be relevant to users or contributors. When you're ready, save the README file in your project's root directory and commit it to your GitHub repository.
+##Feel free to customize this README template to include specific details about your Laravel project. Include any additional instructions or information that may be relevant to users or contributors. When you're ready, save the README file in your project's root directory and commit it to your GitHub repository.
