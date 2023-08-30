@@ -1,9 +1,10 @@
-# laravel-corruptionsystem
-# Laravel Corruption Reporting System
+# Corruption Reporting System - Final Year Project
 
 ![Laravel](https://img.shields.io/badge/Laravel-8.x-red.svg)
 
-This is a web application built with Laravel to report and manage corruption incidents. It provides users with the ability to submit reports, view existing reports, and track the status of reported incidents.
+**Author:** Your Name
+
+This web application is part of my final year project for the Bachelor of Computer Science. It is designed to facilitate the reporting and management of corruption incidents. Users can submit reports, view existing incidents, and monitor the status of reported cases.
 
 ## Table of Contents
 
@@ -19,8 +20,8 @@ This is a web application built with Laravel to report and manage corruption inc
 ## Features
 
 - User authentication and registration.
-- Reporting corruption incidents with file attachments.
-- Viewing and managing reported incidents.
+- Corruption incident reporting with file attachments.
+- Viewing and management of reported incidents.
 - Admin dashboard with statistics and reporting management.
 
 ## Getting Started
@@ -38,9 +39,7 @@ This is a web application built with Laravel to report and manage corruption inc
 
    ```bash
    git clone https://github.com/yourusername/corruption-reporting-system.git
-
-
-#Usage
+Usage
 Visit the application and register as a user.
 Log in to submit corruption reports, view reports, and access the admin dashboard.
 Customization
@@ -49,12 +48,12 @@ Customize the password reset email template by modifying resources/views/vendor/
 Contributing
 Contributions are welcome! Please follow these guidelines:
 
-#Fork the repository.
+Fork the repository.
 Create a new branch for your feature: git checkout -b feature-name.
 Commit your changes: git commit -m 'Add some feature'.
 Push to the branch: git push origin feature-name.
 Submit a pull request.
 License
 This project is open-source and available under the MIT License.
-#
-##Feel free to customize this README template to include specific details about your Laravel project. Include any additional instructions or information that may be relevant to users or contributors. When you're ready, save the README file in your project's root directory and commit it to your GitHub repository.
+##
+Simply copy and paste this text into a file named `README.md` in your project's root directory. Be sure to replace `"Your Name"` with your actual name.
