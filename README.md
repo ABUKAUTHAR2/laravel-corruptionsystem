@@ -1,6 +1,3 @@
-
-
-```markdown
 # Corruption Reporting System - Final Year Project
 
 ![Laravel](https://img.shields.io/badge/Laravel-8.x-red.svg)
@@ -42,7 +39,6 @@ This web application is part of my final year project for the Bachelor of Comput
 
    ```bash
    git clone https://github.com/yourusername/corruption-reporting-system.git
-   ```
 
 2. Navigate to the project directory:
 
