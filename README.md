@@ -2,7 +2,7 @@
 
 ![Laravel](https://img.shields.io/badge/Laravel-8.x-red.svg)
 
-**Author:** Your Name
+    **Author:**     ABUKAUTHAR RASHID VUNDE
 
 This web application is part of my final year project for the Bachelor of Computer Science. It is designed to facilitate the reporting and management of corruption incidents. Users can submit reports, view existing incidents, and monitor the status of reported cases.
 
